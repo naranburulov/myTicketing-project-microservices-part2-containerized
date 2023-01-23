@@ -1,0 +1,6 @@
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/task-service/src/main/java/com/cydeo/service/impl/TaskServiceImpl.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/task-service/src/main/java/com/cydeo/exception/TaskServiceException.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/task-service/src/main/java/com/cydeo/respository/TaskRepository.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/task-service/src/main/java/com/cydeo/service/TaskService.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/task-service/src/main/java/com/cydeo/TaskServiceApplication.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/task-service/src/main/java/com/cydeo/controller/TaskController.java

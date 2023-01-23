@@ -1,0 +1,14 @@
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/dto/RoleDTO.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/entity/Task.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/dto/ProjectDTO.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/entity/ResponseWrapper.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/util/MapperUtil.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/dto/UserDTO.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/enums/Status.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/dto/UserResponseDTO.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/dto/TaskDTO.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/entity/BaseEntity.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/entity/User.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/entity/Role.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/entity/Project.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/app-domain-model/src/main/java/com/cydeo/enums/Gender.java

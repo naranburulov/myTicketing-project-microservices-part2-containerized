@@ -1,0 +1,9 @@
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/service/impl/UserServiceImpl.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/repository/UserRepository.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/service/UserService.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/controller/UserController.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/repository/RoleRepository.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/service/impl/RoleServiceImpl.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/UserServiceApplication.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/service/RoleService.java
+/Users/naranburulov/Desktop/ticketing-project-microservices-part2-containerized/user-service/src/main/java/com/cydeo/exception/UserServiceException.java
